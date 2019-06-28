@@ -6,10 +6,25 @@
 [![Community](https://img.shields.io/badge/dynamic/json.svg?label=community&colorB=&suffix=%20users&query=$.approximate_people_count&uri=http%3A%2F%2Fapi.getsatisfaction.com%2Fcompanies%2F102909.json)](https://devcommunity.ringcentral.com/ringcentraldev)
 [![Twitter](https://img.shields.io/twitter/follow/ringcentraldevs.svg?style=social&label=follow)](https://twitter.com/RingCentralDevs)
 
-__[RingCentral Developers](https://developer.ringcentral.com/api-products)__ is a cloud communications platform which can be accessed via more than 70 APIs. The platform's main capabilities include technologies that enable:
-__[Voice](https://developer.ringcentral.com/api-products/voice), [SMS/MMS](https://developer.ringcentral.com/api-products/sms), [Fax](https://developer.ringcentral.com/api-products/fax), [Glip Team Messaging](https://developer.ringcentral.com/api-products/team-messaging), [Data and Configurations](https://developer.ringcentral.com/api-products/configuration)__.
+The RingCentral PHP SDK allows developers building server-side PHP applications to interface with the following RingCentral APIs more easily:
 
-[API Reference](https://developer.ringcentral.com/api-docs/latest/index.html) and [APIs Explorer](https://developer.ringcentral.com/api-explorer/latest/index.html).
+* [Voice](https://developer.ringcentral.com/api-products/voice)
+* [Messaging](https://developer.ringcentral.com/api-products/sms), e.g. Fax, SMS, voicemail, etc.
+* [Glip Team Messaging](https://developer.ringcentral.com/api-products/team-messaging)
+* [Call Management](https://developer.ringcentral.com/api-products/configuration)
+* [Meetings](https://developers.ringcentral.com/api-products/meetings)
+
+## Are you a first-time RingCentral Developer?
+
+If this is your first time building a RingCentral application, we recommend you get started online using our SMS Quick Start guide which will help you get up-and-running in minutes.
+
+* [Get Started Using RingCentral &raquo;](https://developers.ringcentral.com/guide/sms/quick-start)
+
+## Additional Resources
+
+* [RingCentral Developer Guide](https://developer.ringcentral.com/api-reference) - a comprehensive set of tutorials to help developers build their first application and to evolve existing applications on the platform.
+
+* [RingCentral API Reference](https://developer.ringcentral.com/api-reference) - an interactive reference for the RingCentral API that allows developers to make API calls with no code.
 
 # Requirements
 
